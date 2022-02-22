@@ -9,4 +9,6 @@ In this project we are going to explore the idea of ETL (Extract, Transform, Loa
 5. install psycopg2
 6. put .CSV file in the project root directory and script will transform all the .csv file rename them and save them to new created directory datasets
 7. in for loop, each file will be renamed columen(use lowercase),  the table in Postgres will be created according to the first line of csv file, then data will be loaded to the databases.
- 
+
+ run the script
+ python3 inport_data.py
