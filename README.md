@@ -11,4 +11,4 @@ In this project we are going to explore the idea of ETL (Extract, Transform, Loa
 7. in for loop, each file will be renamed columns(use lowercase),  the table in Postgres will be created according to the file name, then data will be loaded to the databases.
 
  run the script
- python3 inport_data.py
+ python3 import_data.py
